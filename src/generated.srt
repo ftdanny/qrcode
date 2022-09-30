@@ -1,0 +1,8 @@
+1
+00:00:00,599 --> 00:00:04,160
+Hi, my name is Alice Miller and this is John Brown
+
+2
+00:00:04,160 --> 00:00:06,770
+and we're the owners of Miller Bakery.
+
